@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Routify
+Routify is a full-stack bus reservation system designed for seamless travel experiences. It features an interactive, dynamic seat map, secure booking management, and a robust backend architecture. Built to demonstrate enterprise-grade state management and concurrency handling.
+>>>>>>> d3bdf3ea89f3b136a80a9776573f0ceb4f299333
